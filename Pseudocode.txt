@@ -1,0 +1,5 @@
+int n; m = 10;
+    if n % 2 == 1
+    process n += m
+else
+    print "n is even number"
